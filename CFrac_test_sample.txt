@@ -1,0 +1,13 @@
+cr 6/7
+cln
+pr
+sm 3/19 11/47
+sb 8/221 -9/12
+mltpl 3/-3 0/1
+dvd 105/7 21/3
+cmpr -9/10 3/-5
+prd 5/41
+prpr 6/39
+whl 170/123
+help
+joke
