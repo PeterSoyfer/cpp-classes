@@ -6,3 +6,5 @@ Features: three initialisation methods (default with no parameters, construct-by
 User interface via the command line (std I/O) and/or file data stream is designed to be of maximum safety and friendliness (lovely joke added), handling all exceptions possible.
 
 Task named 'complex class' exploits the same idea of CFrac fraction class of rational numbers, but makes use of the OOP principles: initialisation methods are replaced with class constructors (three-fold polymorphism allows to construct a class instance either by default or by reference/by value), operational methods are replaced with the operators' overloading, other functions are designed in accordance with encapsulation and abstraction principles (usage of get_value/set_value idea and befriending a filling function infrac to the class). Also user-friendly interface with another good joke.
+
+CStrList class was designed to introduce the concept of parsing the file line-by-line (built from scratch), printing the lines read, finding the sub-string in the string read. Everything was designed with the idea of handling all the exceptions possible and maintaining safe user-friendly interface via std I/O.
