@@ -1,4 +1,5 @@
-# cpp_MSU
+# C++ OOP projects
+
 OOP projects exhibiting main properties of simple and complex classes, operators' overloading etc. Created during my studies in the second year at the Moscow State University, Faculty of Mechanics and Mathematics.
 
 Task named 'simple class' is meant to represent a simple C++ class of rational numbers (fractions) as they are defined in Number Theory: equivalence class of pairs of integers (a, b) = "a / b" up to multiplying the numerator and denominator by the same number.
