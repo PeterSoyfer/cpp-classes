@@ -1,0 +1,26 @@
+Sample Input:
+
+definition marry 300
+definition rob 250
+schedule marry 10 15
+schedule rob 13 20
+start
+8 enter 200
+10 enter 310
+10 enter 300
+11 inspect    // we compare our lion (marry) with others; return empty list since there is bigger
+13 enter 250
+13 exit 310
+13 inspect    // both marry and rob are bigger than 200cm-lion, return a list [marry, rob]
+15 exit 300
+16 inspect    // marry left, so there is only rob which is the biggest
+16 exit 200
+20 exit 250
+21 end
+
+
+Sample Output:
+
+0
+2 marry rob
+1 rob
